@@ -15,10 +15,15 @@ permalink: LINKS/
 
 1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8&feature=youtu.be)
    
-   Saya sangat menyukai video ini karena presenter melakukan pekerjaan yang baik untuk menjelaskan apa arti sebenarnya dari sistem operasi. Sangat direkomendasikan untuk orang    yang ingin belajar sistem operasi untuk pertama kalinya.
+   Saya sangat menyukai video ini karena presenter melakukan pekerjaan yang baik untuk menjelaskan apa arti sebenarnya dari sistem operasi. Sangat direkomendasikan untuk        orang yang ingin belajar sistem operasi untuk pertama kalinya.
 2. [Tutorial Belajar Vim Dasar](https://www.youtube.com/playlist?list=PL2O3HdJI4voE_mHibdvrDqNj_vZaKCZGC)
    
    Playlist Youtube untuk belajar vim dari dasar dengan versi bahasa Indonesia.
+3. [Learn-C](https://www.learn-c.org/)
+
+   Situs web ini ditujukan untuk semua orang yang ingin belajar bahasa pemrograman C terlepas Anda seorang programmer berpengalaman atau tidak. Situs web menyediakan latihan    untuk setiap sub-pelajaran setelah penjelasan.
+4. [Arrays & Pointers in C](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)
+   Daftar putar yang bagus untuk mempelajari penunjuk C dari Neso Academy.
 
 <br>
 <hr>
