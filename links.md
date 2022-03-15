@@ -24,7 +24,10 @@ permalink: LINKS/
    Situs web ini ditujukan untuk semua orang yang ingin belajar bahasa pemrograman C terlepas Anda seorang programmer berpengalaman atau tidak. Situs web menyediakan latihan    untuk setiap sub-pelajaran setelah penjelasan.
 4. [Arrays & Pointers in C](https://www.youtube.com/playlist?list=PLBlnK6fEyqRjoG6aJ4FvFU1tlXbjLBiOP)
    Daftar putar yang bagus untuk mempelajari penunjuk C dari Neso Academy.
-
+5. [What is virtual memory? – Gary explains](https://www.youtube.com/watch?v=2quKyPnUShQ&feature=youtu.be)
+   Video ini menjelaskan tentang konsep memori virtual dalam konteks perkuliahan Sistem Operasi. Gary, sebagai tuan rumah, menjelaskan dengan sangat baik tentang konsep ini   
+6. [Tutorial FUSE pada Linux](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)
+   Video tutorial dari cara menginstal FUSE dan cara menggunakannya. Juga video ini dijelaskan di Indonesia jadi saya sangat merekomendasikan video ini.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
