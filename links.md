@@ -28,6 +28,10 @@ permalink: LINKS/
    Video ini menjelaskan tentang konsep memori virtual dalam konteks perkuliahan Sistem Operasi. Gary, sebagai tuan rumah, menjelaskan dengan sangat baik tentang konsep ini   
 6. [Tutorial FUSE pada Linux](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)
    Video tutorial dari cara menginstal FUSE dan cara menggunakannya. Juga video ini dijelaskan di Indonesia jadi saya sangat merekomendasikan video ini.
+7. [C - Memory Management](https://www.tutorialspoint.com/cprogramming/c_memory_management.htm)
+   Artikel ini menjelaskan tentang manajemen memori dinamis di C. Artikel ini juga memberikan contoh kode dengan langkah-langkah dan penjelasan rinci yang dapat        dengan mudah dipahami.
+8. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)
+   Penjelasan bagus tentang fork dan fungsi exec dari Neso Academy.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
