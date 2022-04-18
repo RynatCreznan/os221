@@ -32,6 +32,11 @@ permalink: LINKS/
    Artikel ini menjelaskan tentang manajemen memori dinamis di C. Artikel ini juga memberikan contoh kode dengan langkah-langkah dan penjelasan rinci yang dapat        dengan mudah dipahami.
 8. [fork() and exec() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY)
    Penjelasan bagus tentang fork dan fungsi exec dari Neso Academy.
+9. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+   Penjelasan bagus tentang deadlock di Sistem Operasi.
+10.[Operating System Syllabus Discussion for all College/University & Comptitive exams (GATE,NET)](https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
+   Sangat bagus untuk belajar Operasi Sistem.
+   
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
