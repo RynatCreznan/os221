@@ -36,6 +36,10 @@ permalink: LINKS/
    Penjelasan bagus tentang deadlock di Sistem Operasi.
 10.[Operating System Syllabus Discussion for all College/University & Comptitive exams (GATE,NET)](https://www.youtube.com/watch?v=bkSWJJZNgf8&list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p)
    Sangat bagus untuk belajar Operasi Sistem.
+ 11. [LFS Book Chapter 5: Compiling a Cross-Toolchain](https://www.youtube.com/watch?v=xVKFOJQOFWE)
+     Video ini menjelaskan dengan sangat baik tentang cara mengkompilasi Cross-Toolchain untuk LFS.
+ 12. [Why I use DEBIAN LINUX - Perfect Linux Distribution for me - Debian 11 Bullseye Review](https://www.youtube.com/watch?v=JbShx_R2GZY)
+    Debian 11 Bullseye dan bagaimana tampilan sistemnya.
    
 <br>
 <hr>
