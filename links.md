@@ -14,10 +14,8 @@ permalink: LINKS/
 # LINKS
 
 1. [Operating Systems: Crash Course Computer Science #18](https://www.youtube.com/watch?v=26QPDBe-NB8&feature=youtu.be)
-   
    Saya sangat menyukai video ini karena presenter melakukan pekerjaan yang baik untuk menjelaskan apa arti sebenarnya dari sistem operasi. Sangat direkomendasikan untuk        orang yang ingin belajar sistem operasi untuk pertama kalinya.
-2. [Tutorial Belajar Vim Dasar](https://www.youtube.com/playlist?list=PL2O3HdJI4voE_mHibdvrDqNj_vZaKCZGC)
-   
+2. [Tutorial Belajar Vim Dasar](https://www.youtube.com/playlist?list=PL2O3HdJI4voE_mHibdvrDqNj_vZaKCZGC)  
    Playlist Youtube untuk belajar vim dari dasar dengan versi bahasa Indonesia.
 3. [Learn-C](https://www.learn-c.org/)
 
@@ -43,7 +41,10 @@ permalink: LINKS/
  13. [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
       Sangat mudah dipahami dalam mengenal operating system.
  14. [Virtual Memory and Distributed Systems](http://web.cs.ucla.edu/classes/winter12/cs111/scribe/15e/)
-      A lecture dari UCLA untuk Virtual Memory and Distributed Systems. Saya rasa ini dapat membantu beberapa orang.
+     Lecture dari UCLA untuk Virtual Memory and Distributed Systems. Saya rasa ini dapat membantu beberapa orang.
+ 15. [Process Scheduling Neso Academy](https://www.youtube.com/watch?v=2h3eWaPx8SA)
+      video tentang proses scheduling dari neso academy. Ini dapat membuat mudah
+      
    
  
 <br>
