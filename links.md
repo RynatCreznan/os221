@@ -40,7 +40,12 @@ permalink: LINKS/
      Video ini menjelaskan dengan sangat baik tentang cara mengkompilasi Cross-Toolchain untuk LFS.
  12. [Why I use DEBIAN LINUX - Perfect Linux Distribution for me - Debian 11 Bullseye Review](https://www.youtube.com/watch?v=JbShx_R2GZY)
     Debian 11 Bullseye dan bagaimana tampilan sistemnya.
+ 13. [What is an operating system?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
+      Sangat mudah dipahami dalam mengenal operating system.
+ 14. [Virtual Memory and Distributed Systems](http://web.cs.ucla.edu/classes/winter12/cs111/scribe/15e/)
+      A lecture dari UCLA untuk Virtual Memory and Distributed Systems. Saya rasa ini dapat membantu beberapa orang.
    
+ 
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
