@@ -44,6 +44,10 @@ permalink: LINKS/
      Lecture dari UCLA untuk Virtual Memory and Distributed Systems. Saya rasa ini dapat membantu beberapa orang.
  15. [Process Scheduling Neso Academy](https://www.youtube.com/watch?v=2h3eWaPx8SA)
       video tentang proses scheduling dari neso academy. Ini dapat membuat mudah
+ 16. [Structures of Operating System](https://www.youtube.com/watch?v=XXPBl20J22w)
+      materi ini dapat membantu untuk mempelajari OS
+ 17. [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE) 
+      materi ini membantu untuk memahami I/O Structure
       
    
  
