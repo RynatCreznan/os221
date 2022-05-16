@@ -1,23 +1,23 @@
 #!/bin/bash
 # Copyright (C) 2020-2022 Cicak Bin Kadal
 
-WEEK="02"
+WEEK="09"
 
 # This free document is distributed in the hope that it will be 
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# REV06 Sun 20 Feb 2022 15:18:49 WIB
-# REV05 Wed 16 Feb 2022 14:40:24 WIB
-# REV04 Sat 20 Nov 2021 19:10:06 WIB
-# REV03 Mon 15 Nov 2021 11:22:19 WIB
-# REV02 Sun 19 Sep 2021 15:44:11 WIB
-# START Mon 28 Sep 2020 21:05:04 WIB
+# REV17: Mon 16 May 2022 07:00:00 WIB
+# REV16: Sun 08 May 2022 14:00:00 WIB
+# REV15: Wed 20 Apr 2022 08:38:14 WIB
+# REV06: Sun 20 Feb 2022 15:18:49 WIB
+# REV04: Sat 20 Nov 2021 19:10:06 WIB
+# START: Mon 28 Sep 2020 21:05:04 WIB
 
 # ATTN:
 # You new to set "REC2" with your own Public-Key Identity!
 # Check it out with "gpg --list-key"
-REC2="B5519C958803F4F5DF12FD1E0907B04439AD3999"
+REC2="60914D29C01C81F1"
 # REC1: public key
 REC1="63FB12B215403B20"
 FILES="my*.asc my*.txt my*.sh"
@@ -66,3 +66,4 @@ echo "==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ==== ===="
 echo ""
 
 exit 0
+
