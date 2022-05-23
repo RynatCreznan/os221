@@ -48,6 +48,10 @@ permalink: LINKS/
       materi ini dapat membantu untuk mempelajari OS
  17. [Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE) 
       materi ini membantu untuk memahami I/O Structure
+ 18. [Linux FHS Cheatsheet](https://cheatography.com/adam-hendry/cheat-sheets/linux-fhs/)
+      berisi sebuah cheatsheet yang membantu
+ 19, [OS Deadlock, Starvation, and Livelock](https://www.geeksforgeeks.org/deadlock-starvation-and-livelock/)
+      link ini dapat membantu untuk memahami Deadlock, Starvation, dan Livelock
       
    
  
